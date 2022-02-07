@@ -1,7 +1,10 @@
 # Node.js-Challenge-Professional-README-Generator
 
-## Cri
+## Acceptance Criteria
 
 ## Built With
+- HTML
+- CSS
+- Js
 
 ## Link
